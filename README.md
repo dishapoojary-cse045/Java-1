@@ -1,2 +1,4 @@
 # Java-1
-This repository contains my Java programs and assignments 
+This repo contains:
+- hello1.java (Hello World)
+- worldclock.java (live clocks)
